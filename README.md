@@ -1,7 +1,10 @@
 # 📦 Grocery Getters Revenue Prediction – Regression Modeling Case Study
 Project Title: Grocery_Getters_Revenue_Modeling
+
 Course: Regression Modeling – Master of Business Analytics
+
 Author: Himanshu Bundel
+
 Toolset: Python · Jupyter Notebook · Scikit-learn · Pandas · Seaborn · Matplotlib
 
 ## 📌 Overview
