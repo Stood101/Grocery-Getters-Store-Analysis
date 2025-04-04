@@ -41,7 +41,7 @@ Total_Products_Ordered and Avg_Time_Per_Visit were the strongest predictors of r
 
 Revenue distribution was right-skewed and improved via log transformation.
 
-Final model provided actionable insights for improving customer engagement and product bundling strategies.
+The final model provided actionable insights for improving customer engagement and product bundling strategies.
 
 ## 📚 Reference
 Turner, E. (2023). Purchases for social good. American Economic Review, 113(5), 55–73.
@@ -49,7 +49,7 @@ Turner, E. (2023). Purchases for social good. American Economic Review, 113(5), 
 ## 📁 Files Included
 Bundel_Himanshu_A1.ipynb – Jupyter Notebook with code, analysis, and final model
 
-Grocery_Getters.xlsx – Dataset used (excluded in public repo for confidentiality)
+Grocery_Getters.xlsx – Dataset used
 
 Grocery_Getters_Data_Dictionary.xlsx – Variable definitions
 
